@@ -1,0 +1,11 @@
+# Ignore
+*.pyc
+__pycache__/
+.playwright-cli/
+*.png
+*.yml
+playwright-cli.json
+error*.txt
+output*.txt
+.DS_Store
+Thumbs.db
